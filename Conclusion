@@ -1,0 +1,8 @@
+The Client-Server network model offers many benefits that stems from the fact that only a
+single computer, or group of computers are the central repository for all the networking
+services that you may need.
+Security is relatively easy to implement with this type of network model, since you can set
+up a single server computer to handle all information requests or login requests for the entire
+network, thus you only need one username and password for each user on the network. So if
+you ever need to change a password, you only need to change it at the server and the
+password would be changed for the entire network.
