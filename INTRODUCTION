@@ -1,0 +1,17 @@
+● Sockets are software structures that provide two way communication links between two
+nodes. They are used primarily whenever real time communication is established
+● The XO game, also known as Tic Tac Toe or Crosses and Noughts, is a paper-and-pencil
+game for two players who take turns marking the spaces in a three-by-three grid with X or
+O. The player who succeeds in placing three of their marks in a horizontal, vertical, or
+diagonal row is the winner.
+● By applying the concepts of socket programming, and under the TCP/IP protocol, an
+online tic tac toe game is created, and is playable by two players connected on a LAN
+network.
+● The coding is done in the python programming language, as it has various modules that
+make it easier to carry out the tasks required to implement the program.
+● The Socket module in python allows us to implement the socket programming concepts
+easily.
+● The threading module allows the use of multiprocessing.
+● The PyGame module allows to make a physical representation of the game and provide a
+board for the two players to play on.
+● Additional modules are also used to improve quality of life and working of the program.
